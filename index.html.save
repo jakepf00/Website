@@ -148,21 +148,6 @@
      				</div>
      			</div>
 
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="assets/img/thumb/rubiks.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Speedcubing</h4>
-                        <p class="text-muted">Programming</p>
-                    </div>
-                </div>
-
      			<div class="col-md-4 col-sm-6 portfolio-item">
      				<a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
      					<div class="portfolio-hover">
@@ -220,6 +205,21 @@
      				<div class="portfolio-caption">
      					<h4>To iPad</h4>
      					<p class="text-muted">Computing</p>
+     				</div>
+     			</div>
+
+     			<div class="col-md-4 col-sm-6 portfolio-item">
+     				<a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+     					<div class="portfolio-hover">
+     						<div class="portfolio-hover-content">
+     							<i class="fa fa-plus fa-3x"></i>
+     						</div>
+     					</div>
+     					<img src="assets/img/thumb/rubiks.jpg" class="img-responsive" alt="">
+     				</a>
+     				<div class="portfolio-caption">
+     					<h4>Speedcubing</h4>
+     					<p class="text-muted">Problem Solving</p>
      				</div>
      			</div>
 
@@ -506,26 +506,24 @@
 					<div class="modal-body">
 						<!-- Project Details Go Here -->
 						<h2>Speedcubing</h2>
-						<img class="img-responsive img-centered" src="assets/img/project/rubiks.jpg" style="border-radius: 0" alt="">
-						<p>My favorite hobby has always been solving <em>Rubik's Cubes</em>. It took me 7 years after I first solved a cube (in <em>6th grade</em>) to decide I wanted to solve it faster. During my senior year, I started an inquiry through the options program on speedsolving the Rubik's cube. Not only did I learn a completely new set of <em>algorithms</em>, I discovered a community of people like myself at <em><a href="http://www.reddit.com/r/cubers">reddit.com/r/cubers</a></em>, and even learned how to improve myself. I learned how to <em>learn</em>.</p>
-
-                        <p>Of course, you can't stop at just cubing... you need to <em>obsess</em> about it! I downloaded and used the open source <em>Prisma Puzzle Timer</em>, a Rubik's Cube timer, for a long time, and liked it, but it wasn't enough... I cloned the repository, and updated it to have an <em>export solutions</em> button. When I find more time, I'll be adding <em>Google Drive</em> integration as well!</p>  
+						<img class="img-responsive img-centered" src="assets/img/project/rubiks.jpg" alt="">
+						<p>My favorite hobby has always been solving <em>Rubik's Cubes</em>. It took me 7 years after I first solved a cube (in <em>6th grade</em>) to decide I wanted to solve it faster. During my senior year, I started an inquiry through the options program on speedsolving the Rubik's cube. Not only did I learn a completely new set of <em>algorithms</em>, I discovered a community of people like myself at <em><a href="http://www.reddit.com/r/cubers">reddit.com/r/cubers</a></em>, and even learned how to improve myself. I learned how to <em>learn</em>. Please check out my final presentation and the resources I used to learn!</p>
 						
 						<p><br/><a
-							href="https://github.com/mpfeifer1/prisma"
+							href="https://docs.google.com/presentation/d/1_ZKQadtVedy6P-r-EGGniTiVWFAaxHxbiR67viPdj_8/present#slide=id.p"
 							class="btn btn-theme btn-lg"
 							style="width: 100%;"
 							target="_blank">
 							<span
-							class="fa fa-fw fa-github pull-left"
+							class="glyphicon glyphicon-film pull-left"
 							aria-hidden="true">
 						</span>
-						GitHub
+						View Presentation
 					</a></p>
 				</div>
 
 				<ul class="list-inline">
-					<li>Year: 15</li>
+					<li>Year: 09, 10, 11, 12, 13, 14, 15</li>
 					<li>Program: Open Source</li>
 					<li>Category: Programming</li>
 				</ul>
@@ -596,13 +594,9 @@
                             <!-- Project Details Go Here -->
                             <h2>Project Euler</h2>
                             <img class="img-responsive img-centered" src="assets/img/project/euler.png" alt="">
-                            <p>Project Euler is a large collection of <em>programming challenges</em>, generally involving advanced math concepts. These programs can be completed in any language, so I decided to go with the language I'm learning in college - <em>C++</em>. You can click the link below to see the source code for every project I've worked on - but be warned - one or two are probably <em>in the works</em>, and aren't complete!</p>
-                            <p>I'd highly recommend you <em>try some</em> of these problems if you haven't already - they're a lot of fun, and you can learn a lot about math theories and brilliant mathematicians.</p>
+                            <p>Project Euler is a large collection of programming questions, generally involving advanced math concepts. These programs can be completed in any language, so I decided to go with the language I'm learning in college - C++. If you want to view my progress, visit <em><a href="https://projecteuler.net/progress=Fifey01">projecteuler.net</a></em> (sorry if you need an account). You can also click the link below to see the source code for every project I've worked on - but be warned - one or two are probably in the works, and aren't complete!</p>
+                            <p>I'd highly recommend you try some of these problems if you haven't already - they're a lot of fun, and you can learn a lot about math theories and brilliant mathematicians.</p>
                             
-                            <a href = "https://projecteuler.net/about">
-                                <img src="https://projecteuler.net/profile/Fifey01.png" style="border-radius: 0px;">
-                            </a>
-
                             <p><br/><a
                                 href="https://gitlab.com/mpfeifer1/ProjectEuler/tree/master"
                                 class="btn btn-theme btn-lg"
